@@ -1,0 +1,14 @@
+{
+  "name": "proriedadescss",
+  "version": "1.0.0",
+  "description": "projeto individual com próposito de criar script para receber propriedades css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "beatriz anjos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
